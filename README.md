@@ -1,2 +1,2 @@
-# Citra-mmj-android
-Citra mmj for android  
+#MON JEU INSTALLE
+slt INSTALLE
